@@ -11,3 +11,4 @@ My tutor, Daan's Repo
 | 23.04.15 | 19:00 ~ 20:04 |   Python: Functions + Playbot(User-defined Functions #1)  |
 | 23.04.22 | 19:00 ~ 19:58 |       Python: 8 Problems(Functions) of 300 Problems       |
 | 23.05.07 | 14:00 ~ 14:58 | Python: Solving Problems (related to print) on the Jungol |
+| 23.05.14 | 14:00 ~ 14:55 |           Python: Solving Problems on the Jungol          |
